@@ -1,3 +1,5 @@
 Alderaan
 Coruscant
 Death Star
+Naboo
+Terra
